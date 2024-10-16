@@ -1,6 +1,4 @@
-Here’s a more structured and interactive GitHub bio for your FYP repository with sections for contributors, licenses, and an organized breakdown of the project.
 
----
 
 # 🛡️ Web Application Firewall (WAF) with Machine Learning Integration
 
