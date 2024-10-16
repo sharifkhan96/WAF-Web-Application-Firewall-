@@ -55,25 +55,24 @@ Welcome to the repository of our **Final Year Project (FYP)**! This project show
 ## 🔬 Testing & Results
 
 The system was tested using **DVWA** to simulate web attacks:
-- **SQL Injection (SQLi)**: 95% success rate in detection.
-- **Cross-Site Scripting (XSS)**: 90% success rate in detection.
+- **SQL Injection (SQLi)**: x% success rate in detection.
+- **Cross-Site Scripting (XSS)**: x% success rate in detection.
 - **Overall Accuracy**: 90% accuracy using the Random Forest algorithm.
 
 ---
 
 ## 🧑‍💻 Contributors
 
-- **Sharif Ullah Danish** (Team Lead, AI/ML Developer)
-- **Abidullah Nasiri** (Backend Developer)
-- **Ismail Karimi** (Frontend & Security Tester)
+- **Sharif Ullah Danish** (Team Lead, AI/ML Developer & Security Tester)
+- **Abidullah Nasiri** (Backend Developer & Frontend)
+- **Ismail Karimi** (Documentation)
 
 ---
 
 ## 📝 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is not yet licensed under the **MIT License**. 
 
----
 
 ## 📖 Further Reading
 
@@ -88,10 +87,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - Special thanks to our supervisor **Dr. Zahid Ullah** for his guidance.
 - Thank you to **IMSciences** for providing resources and support during our project development.
 
----
 
-Feel free to explore the code, contribute, or use it for your own web security research! 🔐
+So far, we have not yet released the code. After we are release it, you can contribute to it, or use it for your own web security research! 🔐
 
----
-
-This bio adds interactive elements like contributors, license info, project breakdown, and more, providing a clean and engaging overview for your repo.
