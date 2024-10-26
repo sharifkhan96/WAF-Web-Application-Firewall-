@@ -9,10 +9,10 @@ Welcome to the repository of our **Final Year Project (FYP)**! This project show
 ## 🔑 Key Features
 
 - **Machine Learning Model**: Trained using the **Random Forest algorithm**, achieving **90% accuracy** in detecting anomalous or benign traffic.
-- **Web Technologies**: Integrated with **ModSecurity** on **NGINX** running on **Ubuntu OS** for real-time traffic analysis.
+- **Web Technologies**: Integrated with **ModSecurity**, **DVWA** hosted locally on **NGINX** running on **Ubuntu OS** for real-time traffic analysis.
 - **Tested on DVWA**: The ML-powered WAF was tested using the **Damn Vulnerable Web Application (DVWA)** to simulate attacks and measure the firewall’s effectiveness.
 - **Real-Time Traffic Detection**: The model communicates with ModSecurity to detect and mitigate **SQLi** and **XSS** attacks dynamically.
-- **Django Web Application**: ML model deployed using a web interface built with **Django** and **JavaScript**, providing real-time insights and security alerts.
+- **Django Web Application**: ML model deployed using a web interface built with **Django** and **JavaScript**, providing real-time insights and security alerts via a dashboard.
 
 ---
 
@@ -44,7 +44,7 @@ Welcome to the repository of our **Final Year Project (FYP)**! This project show
 
 ## 🚀 How It Works
 
-1. **Traffic Flow**: Incoming web traffic is routed through **NGINX** and **ModSecurity**.
+1. **Traffic Flow**: Incoming web traffic is routed through **DVWA** hosted locally on **NGINX** to **ModSecurity**, then to Django app on which ML trained model is deployed locally.
 2. **Traffic Classification**: ModSecurity logs are passed to the **Django application**, where the **Machine Learning model** classifies the traffic as either **malicious** or **benign**.
 3. **Alerts & Actions**: If malicious traffic is detected (e.g., SQLi or XSS), the system triggers appropriate actions like logging, alerts, or blocking the request.
 
@@ -61,8 +61,8 @@ The system was tested using **DVWA** to simulate web attacks:
 
 ## 🧑‍💻 Contributors
 
-- **Sharif Ullah Danish** (Team Lead, AI/ML Developer & Security Tester)
-- **Abidullah Nasiri** (Backend Developer & Frontend)
+- **Sharif Danish** (Team Lead, AI/ML model trainer, & Security Tester)
+- **Abidullah Nasiri** (Backend & Frontend Developer)
 - **Ismail Karimi** (Documentation)
 
 ---
@@ -82,9 +82,15 @@ This project is not yet licensed under the **MIT License**.
 
 ## 🌟 Acknowledgments
 
-- Special thanks to our supervisor **Dr. Zahid Ullah** for his guidance.
-- Thank you to **IMSciences** for providing resources and support during our project development.
+- Kudos to us for our hard work!!!
 
 
-So far, we have not yet released the code. After we are release it, you can contribute to it, or use it for your own web security research! 🔐
+Note: So far, we have not released the full documentation and code of this project. After we release it, you can contribute, or use it for your own web security research! 🔐
+
+![ml](https://github.com/user-attachments/assets/636943d9-8229-4b3a-b379-9ed007d77b60)
+
+![admin_dashboard](https://github.com/user-attachments/assets/8b5efd53-dd81-4fdd-8076-e6e34d687bed)
+
+![Screenshot from 2024-10-26 23-54-20](https://github.com/user-attachments/assets/f88589b4-5cc9-4b71-b014-9cc2c775d547)
+
 
