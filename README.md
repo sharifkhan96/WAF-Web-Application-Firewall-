@@ -37,7 +37,7 @@ Welcome to the repository of our **Final Year Project (FYP)**! This project show
    sudo apt-get install nginx modsecurity python3-pip
    pip3 install -r requirements.txt
    ```
-3. Configure NGINX and ModSecurity by following the guide in the `nginx_modsecurity_setup/` directory.
+3. Configure NGINX and ModSecurity by following the guide in the `nginx_modsecurity_setup/` directory, or https://blog.nginx.org/blog/compiling-and-installing-modsecurity-for-open-source-nginx
 4. Train the model or use the pre-trained model from the `ml_model/` directory.
 
 ---
