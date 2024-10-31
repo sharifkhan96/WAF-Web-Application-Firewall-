@@ -93,7 +93,7 @@ ML model training for http traffic.
 
 ---
 ![admin_dashboard](https://github.com/user-attachments/assets/8b5efd53-dd81-4fdd-8076-e6e34d687bed)
-Django web app development for ML trained model and modsecurity integration.
+Django web app dashboard for ML trained model and modsecurity results.
 
 ---
 ![Screenshot from 2024-10-26 23-54-20](https://github.com/user-attachments/assets/f88589b4-5cc9-4b71-b014-9cc2c775d547)
