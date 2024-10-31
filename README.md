@@ -87,10 +87,16 @@ This project is not yet licensed under the **MIT License**.
 
 Note: So far, we have not released the full documentation and code of this project. After we release it, you can contribute, or use it for your own web security research! 🔐
 
+---
 ![ml](https://github.com/user-attachments/assets/636943d9-8229-4b3a-b379-9ed007d77b60)
+ML model training for http traffic.
 
+---
 ![admin_dashboard](https://github.com/user-attachments/assets/8b5efd53-dd81-4fdd-8076-e6e34d687bed)
+Django web app development for ML trained model and modsecurity integration.
 
+---
 ![Screenshot from 2024-10-26 23-54-20](https://github.com/user-attachments/assets/f88589b4-5cc9-4b71-b014-9cc2c775d547)
+Nginx configurations on Ubuntu O.S.
 
 
